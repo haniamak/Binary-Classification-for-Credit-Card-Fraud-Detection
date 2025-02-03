@@ -13,7 +13,7 @@
 - SMOTE
 
 # Final Scores:
-| Model | True Negatives | False Positives | False Negatives | True Positives | Pecision | Recall | F-1 | Accuracy |
+| Model | True Negatives | False Positives | False Negatives | True Positives | Precision | Recall | F-1 | Accuracy |
 |-------|----------------|-----------------|-----------------|----------------|----------|--------|-----|----------|
 | Logistic Regression | 56850 | 13 | 36 | 63 | 0.828947 | 0.636364 | 0.720000 | 0.999140 |
 | Random Forest | 56855 | 8 | 18 | 81 | 0.910112 | 0.818182 | 0.861702 | 0.999544 |
